@@ -1,0 +1,3 @@
+C:/git/CMake/CMakeFiles/mein_projekt.dir
+C:/git/CMake/CMakeFiles/ALL_BUILD.dir
+C:/git/CMake/CMakeFiles/ZERO_CHECK.dir
