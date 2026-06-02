@@ -1,21 +1,11 @@
-Ich will das Programm mit Cmake übersetzem.
+Ich will das C++ Programm mit CMake debuggen
 
-Warum bekomme ich die Fehöermeldung:
+Dabei erhalte ich 
 
-C:\git\CMake>cmake .
-CMake Error at CMakeLists.txt:2 (project):
-  Running
+PS C:\git\CMake\src> "enter program name, for example C:\git\CMake/a.exe"
+enter program name, for example C:\git\CMake/a.exe
+PS C:\git\CMake\src> 
 
-   'nmake' '-?'
+Wie muss in desiem falll dei Datei launch.json aussehen.
 
-  failed with:
-
-   no such file or directory
-
-
-CMake Error: CMAKE_C_COMPILER not set, after EnableLanguage
-CMake Error: CMAKE_CXX_COMPILER not set, after EnableLanguage
--- Configuring incomplete, errors occurred!
-
-C:\git\CMake>
-
+Wie kann ich diese Änderung einbauen
